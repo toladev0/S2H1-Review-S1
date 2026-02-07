@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">S2H1 - Review S1</string>
+    <string name="welcome_icon">welcome_icon</string>
+    <string name="welcome_title">Task Management &amp; To-Do List </string>
+    <string name="paragraph">This productive tool is designed to help you batter manage your task project-wise conveniently!</string>
+    <string name="btn_start">Let Start</string>
 </resources>
