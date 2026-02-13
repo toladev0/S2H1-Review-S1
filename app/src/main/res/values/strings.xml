@@ -4,4 +4,28 @@
     <string name="welcome_title">Task Management &amp; To-Do List </string>
     <string name="paragraph">This productive tool is designed to help you batter manage your task project-wise conveniently!</string>
     <string name="btn_start">Let Start</string>
+    <string name="user_profile" translatable="false">user_profile</string>
+    <string name="hello">Hello!</string>
+    <string name="username">Lon Tola</string>
+    <string name="notification_icon" translatable="false">notification_icon</string>
+    <string name="task_status">Your today\'s task almost done!</string>
+    <string name="view_task">View Task</string>
+    <string name="progress_text">85%</string>
+    <string name="title1">In Progress</string>
+    <string name="task_groups">Task Groups</string>
+    <string name="In_progress_value">6</string>
+    <string name="office_project_title">Office Project</string>
+    <string name="office_project_subtitle">Grocery shopping app design</string>
+    <string name="personal_project_title">Personal Project</string>
+    <string name="personal_project_subtitle">Uber Eats redesign challange</string>
+    <string name="icon" translatable="false">icon</string>
+    <string name="office_project_task_count">23 Tasks</string>
+    <string name="office_project_task_percentage">70%</string>
+    <string name="task_groups_value">4</string>
+    <string name="personal_project_task_percentage">52%</string>
+    <string name="daily_study_title">Daily Study</string>
+    <string name="daily_study_task_percentage">87%</string>
+    <string name="personal_project_task_count">30 Tasks</string>
+    <string name="daily_study_task_count">30 Tasks</string>
+    <string name="daily_study_task_count1">3 Tasks</string>
 </resources>

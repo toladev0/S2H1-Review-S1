@@ -33,6 +33,7 @@
         android:textSize="18sp" />
 
     <Button
+        android:id="@+id/btnStart"
         android:layout_width="360dp"
         android:layout_height="80dp"
         android:backgroundTint="#5E33E0"
